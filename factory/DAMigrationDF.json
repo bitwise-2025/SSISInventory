@@ -1,0 +1,15 @@
+{
+	"name": "DAMigrationDF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "83e838bf-cd8b-4bf2-bf64-69b6857d03a7",
+		"tenantId": "950bde67-19db-467b-9a41-f80b7cf24ecb"
+	}
+}
